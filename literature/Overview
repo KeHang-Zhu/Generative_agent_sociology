@@ -1,3 +1,14 @@
 # Techinical side
 
+1. Memory storage 
+Scaling Transformer to 1M tokens and beyond with RMT 
+increased the model’s effective context length to an unprecedented two million tokens, while maintaining high memory retrieval accuracy.
+
+
+Recurrent Memory Transformer
+
+[https://arxiv.org/pdf/2304.11062.pdf]
+
+
+
 # Application side
