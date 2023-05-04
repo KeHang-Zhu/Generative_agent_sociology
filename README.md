@@ -26,3 +26,8 @@ In the generative society, we can easily test it in different community by chang
 - John Horton, https://john-joseph-horton.com/papers/llm_ask.pdf
 - Ayelet, https://www.hbs.edu/ris/Publication%20Files/23-062_47458a4a-8be2-4b53-a3a3-9b5af20578b1.pdf
 
+## Building Agent-based Models with GPT 4 and Netlogo
+- They can contribute to the effective design of behavioural interventions.
+- Source of fraction: 
+  - require coding expertise
+  - time-consuming process
