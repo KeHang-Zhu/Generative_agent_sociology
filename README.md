@@ -22,4 +22,7 @@ In the generative society, we can easily test it in different community by chang
 - Make a list of effects revelent to 2-10 people.
 - Make a overview of the field of social dynamics.
 
+## Reference in business
+- John Horton, https://john-joseph-horton.com/papers/llm_ask.pdf
+- Ayelet, https://www.hbs.edu/ris/Publication%20Files/23-062_47458a4a-8be2-4b53-a3a3-9b5af20578b1.pdf
 
