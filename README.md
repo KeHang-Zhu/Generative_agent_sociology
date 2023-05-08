@@ -1,6 +1,10 @@
 # Generative Agent for few-people interpersonal study
 
 ## TODO
+bargaining scenarios. E.g., imagine agents endowed with items and valuations over those items and then the possibility of them trading with each other.
+
+
+## TODO
 - Read the pre-GPT work
 https://en.wikipedia.org/wiki/Agent-based_model#Applications
 
@@ -31,3 +35,5 @@ In the generative society, we can easily test it in different community by chang
 - Source of fraction: 
   - require coding expertise
   - time-consuming process
+
+
