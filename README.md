@@ -5,6 +5,9 @@ bargaining scenarios. E.g., imagine agents endowed with items and valuations ove
 
 
 ## TODO
+Learn LangChain 
+
+## TODO
 - Read the pre-GPT work
 https://en.wikipedia.org/wiki/Agent-based_model#Applications
 
