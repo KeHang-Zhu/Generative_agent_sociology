@@ -1,3 +1,5 @@
+## A python package for simulating social and economic phenanema
+
 Developing a platform where researcher can run multiple types of generative agents experiments.
 
 For example, we can set the background, the number of agents, the ways they interact (setting up some grid where agents can move).
